@@ -1251,6 +1251,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 - [MAT2](https://github.com/jvoisin/mat2) - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
 - [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
 - [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
+- [EraseRegistry](https://ereaseregistry.com) - A programmatic, open utility and multi-language directory featuring direct account closure links, step-by-step guides, and built-in email templates across 31 languages.
 
 ### Android
 
